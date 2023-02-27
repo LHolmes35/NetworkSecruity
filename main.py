@@ -3,7 +3,7 @@
 
 MIN_LENGTH = 8
 MAX_LENGTH = 20
-SPECIAL_CHARS_REQUIRED = False
+SPECIAL_CHARS_REQUIRED = True
 SPECIAL_CHARACTERS = "!@#$%^&*()_-=+`~,./'[]<>?{}|\\"
 
 
